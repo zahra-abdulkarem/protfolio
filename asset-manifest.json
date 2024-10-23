@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/protfolio/static/css/main.05238a6b.css",
+    "main.js": "/protfolio/static/js/main.87969653.js",
+    "static/media/Zahra Abdulkarem CV to apply for position Full Stack Developer.pdf": "/protfolio/static/media/Zahra Abdulkarem CV to apply for position Full Stack Developer.e072b2814a9a7c1632a0.pdf",
+    "static/media/HeadImage.jpg": "/protfolio/static/media/HeadImage.5d26ee66dbdb741eae96.jpg",
+    "static/media/ME.jpg": "/protfolio/static/media/ME.a271231b6972afa5031f.jpg",
+    "static/media/logo.svg": "/protfolio/static/media/logo.ffbe9297196b62784025af8a70410437.svg",
+    "index.html": "/protfolio/index.html",
+    "main.05238a6b.css.map": "/protfolio/static/css/main.05238a6b.css.map",
+    "main.87969653.js.map": "/protfolio/static/js/main.87969653.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05238a6b.css",
+    "static/js/main.87969653.js"
+  ]
+}
